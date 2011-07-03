@@ -1,0 +1,17 @@
+This is the first working codeset of the engine,
+which itself is the result of a weekend trial-and-error session.
+
+Don't expect to see code quality or documented parameters.
+
+Requirements:
+  - Webcam, projector
+  - "Holodeck minigolf clubs", i.e. sticks that end in an 
+    easily detectable black/white circle
+  - python, python-pyode, python-opencv, python-pygame
+  - an even, ideally white or white-ish surface
+
+Watch the youtube videos to get an idea what this is.
+Videos coming soon. 
+
+All code is public domain.
+Credits: By Thomas Hirsch, 2011
