@@ -10,8 +10,8 @@ Requirements:
   - python, python-pyode, python-opencv, python-pygame
   - an even, ideally white or white-ish surface
 
-Watch the youtube videos to get an idea what this is.
-Videos coming soon. 
+Watch the youtube video to get an idea what this is.
+http://www.youtube.com/watch?v=EVpSPYU_YPk
 
 All my code is public domain. The included homography library is GPLv3.
 Credits: By Thomas Hirsch, 2011
